@@ -7,16 +7,16 @@ The aim of this project is to refactor the exsisting HTML and CSS to improve rea
 ![Preview of Website](Develop/assets/images/image.png)
 
 
-Installation
+## Installation
 NA
 
-Usage
+## Usage
 NA
 
-Credits
+## Credits
 NA
 
-License
+## License
 This repo uses the MIT license, and is attached in the root folder.
 
 
